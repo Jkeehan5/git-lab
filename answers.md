@@ -36,11 +36,11 @@ Untracked files:
  create mode 100644 README.md
 
  # Answer 8
- commit 531bfaec19463eef220963efa1f6b87926c70256 (HEAD -> master)
-Author: jkeehan5 <jk414119@ohio.edu>
-Date:   Wed Sep 4 16:51:23 2019 -0400
+commit b86fa39b9652e009f65cec6cc36a8824dd6b31ad (HEAD -> master)
+Author: Jake Keehan <jk414119@ohio.edu>
+Date:   Tue Jan 21 18:28:30 2020 -0500
 
-    Initial commit
+    initial commit
 
 # Answer 9
 Branch 'master' set up to track remote branch 'master' from 'origin'.
